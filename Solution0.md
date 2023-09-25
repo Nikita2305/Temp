@@ -1,7 +1,7 @@
 ## Solution - Task 0
 Author: Никитин Никита
 
-![MarineGEO circle logo](/Users/nikitanikitin/Desktop/Test.png "MarineGEO logo")
+![MarineGEO circle logo](Test.png "img")
 
 $I.\ \ x = 5$
 1. Будет куплено 5 единиц базового товара по цене 221.28. Эффективная цена сделки - 221.28.
